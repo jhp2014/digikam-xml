@@ -8,54 +8,64 @@
     xmlns:mediapro="http://ns.iview-multimedia.com/mediapro/1.0/"
     xmlns:acdsee="http://ns.acdsee.com/iptc/1.0/"
     xmlns:dc="http://purl.org/dc/elements/1.1/"
-   acdsee:categories="&lt;Categories&gt;&lt;Category Assigned=&quot;0&quot;&gt;010▷일봉패턴&lt;Category Assigned=&quot;1&quot;&gt;003▷좋은신고가&lt;/Category&gt;&lt;Category Assigned=&quot;1&quot;&gt;003▷신고가▷무거운종목&lt;/Category&gt;&lt;/Category&gt;&lt;Category Assigned=&quot;1&quot;&gt;New_high_1&lt;/Category&gt;&lt;Category Assigned=&quot;0&quot;&gt;003▷이슈&lt;Category Assigned=&quot;1&quot;&gt;001▷리포트&lt;/Category&gt;&lt;/Category&gt;&lt;Category Assigned=&quot;0&quot;&gt;002▷테마&lt;Category Assigned=&quot;1&quot;&gt;001▷개별주&lt;/Category&gt;&lt;/Category&gt;&lt;Category Assigned=&quot;1&quot;&gt;Filter_1&lt;/Category&gt;&lt;/Categories&gt;">
+   acdsee:categories="&lt;Categories&gt;&lt;Category Assigned=&quot;0&quot;&gt;010▷일봉패턴&lt;Category Assigned=&quot;1&quot;&gt;003▷신고가▷무거운종목&lt;/Category&gt;&lt;Category Assigned=&quot;1&quot;&gt;003▷좋은신고가&lt;/Category&gt;&lt;/Category&gt;&lt;Category Assigned=&quot;0&quot;&gt;[000] 속성&lt;Category Assigned=&quot;1&quot;&gt;[020] 패스&lt;/Category&gt;&lt;Category Assigned=&quot;1&quot;&gt;[010] 대표이미지&lt;/Category&gt;&lt;/Category&gt;&lt;Category Assigned=&quot;0&quot;&gt;003▷이슈&lt;Category Assigned=&quot;1&quot;&gt;001▷리포트&lt;/Category&gt;&lt;/Category&gt;&lt;Category Assigned=&quot;0&quot;&gt;002▷테마&lt;Category Assigned=&quot;1&quot;&gt;001▷개별주&lt;/Category&gt;&lt;/Category&gt;&lt;Category Assigned=&quot;1&quot;&gt;New_high_1&lt;/Category&gt;&lt;Category Assigned=&quot;1&quot;&gt;Filter_1&lt;/Category&gt;&lt;/Categories&gt;">
    <digiKam:TagsList>
     <rdf:Seq>
-     <rdf:li>010▷일봉패턴/003▷신고가▷무거운종목</rdf:li>
-     <rdf:li>New_high_1</rdf:li>
      <rdf:li>010▷일봉패턴/003▷좋은신고가</rdf:li>
+     <rdf:li>010▷일봉패턴/003▷신고가▷무거운종목</rdf:li>
+     <rdf:li>[000] 속성/[010] 대표이미지</rdf:li>
      <rdf:li>003▷이슈/001▷리포트</rdf:li>
+     <rdf:li>[000] 속성/[020] 패스</rdf:li>
      <rdf:li>002▷테마/001▷개별주</rdf:li>
+     <rdf:li>New_high_1</rdf:li>
      <rdf:li>Filter_1</rdf:li>
     </rdf:Seq>
    </digiKam:TagsList>
    <MicrosoftPhoto:LastKeywordXMP>
     <rdf:Bag>
-     <rdf:li>010▷일봉패턴/003▷신고가▷무거운종목</rdf:li>
-     <rdf:li>New_high_1</rdf:li>
      <rdf:li>010▷일봉패턴/003▷좋은신고가</rdf:li>
+     <rdf:li>010▷일봉패턴/003▷신고가▷무거운종목</rdf:li>
+     <rdf:li>[000] 속성/[010] 대표이미지</rdf:li>
      <rdf:li>003▷이슈/001▷리포트</rdf:li>
+     <rdf:li>[000] 속성/[020] 패스</rdf:li>
      <rdf:li>002▷테마/001▷개별주</rdf:li>
+     <rdf:li>New_high_1</rdf:li>
      <rdf:li>Filter_1</rdf:li>
     </rdf:Bag>
    </MicrosoftPhoto:LastKeywordXMP>
    <lr:hierarchicalSubject>
     <rdf:Bag>
-     <rdf:li>010▷일봉패턴|003▷신고가▷무거운종목</rdf:li>
-     <rdf:li>New_high_1</rdf:li>
      <rdf:li>010▷일봉패턴|003▷좋은신고가</rdf:li>
+     <rdf:li>010▷일봉패턴|003▷신고가▷무거운종목</rdf:li>
+     <rdf:li>[000] 속성|[010] 대표이미지</rdf:li>
      <rdf:li>003▷이슈|001▷리포트</rdf:li>
+     <rdf:li>[000] 속성|[020] 패스</rdf:li>
      <rdf:li>002▷테마|001▷개별주</rdf:li>
+     <rdf:li>New_high_1</rdf:li>
      <rdf:li>Filter_1</rdf:li>
     </rdf:Bag>
    </lr:hierarchicalSubject>
    <mediapro:CatalogSets>
     <rdf:Bag>
-     <rdf:li>010▷일봉패턴|003▷신고가▷무거운종목</rdf:li>
-     <rdf:li>New_high_1</rdf:li>
      <rdf:li>010▷일봉패턴|003▷좋은신고가</rdf:li>
+     <rdf:li>010▷일봉패턴|003▷신고가▷무거운종목</rdf:li>
+     <rdf:li>[000] 속성|[010] 대표이미지</rdf:li>
      <rdf:li>003▷이슈|001▷리포트</rdf:li>
+     <rdf:li>[000] 속성|[020] 패스</rdf:li>
      <rdf:li>002▷테마|001▷개별주</rdf:li>
+     <rdf:li>New_high_1</rdf:li>
      <rdf:li>Filter_1</rdf:li>
     </rdf:Bag>
    </mediapro:CatalogSets>
    <dc:subject>
     <rdf:Bag>
-     <rdf:li>003▷신고가▷무거운종목</rdf:li>
-     <rdf:li>New_high_1</rdf:li>
      <rdf:li>003▷좋은신고가</rdf:li>
+     <rdf:li>003▷신고가▷무거운종목</rdf:li>
+     <rdf:li>[010] 대표이미지</rdf:li>
      <rdf:li>001▷리포트</rdf:li>
+     <rdf:li>[020] 패스</rdf:li>
      <rdf:li>001▷개별주</rdf:li>
+     <rdf:li>New_high_1</rdf:li>
      <rdf:li>Filter_1</rdf:li>
     </rdf:Bag>
    </dc:subject>
