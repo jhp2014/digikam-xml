@@ -8,7 +8,7 @@
     xmlns:mediapro="http://ns.iview-multimedia.com/mediapro/1.0/"
     xmlns:acdsee="http://ns.acdsee.com/iptc/1.0/"
     xmlns:dc="http://purl.org/dc/elements/1.1/"
-   acdsee:categories="&lt;Categories&gt;&lt;Category Assigned=&quot;0&quot;&gt;010▷일봉패턴&lt;Category Assigned=&quot;1&quot;&gt;003▷좋은신고가&lt;/Category&gt;&lt;/Category&gt;&lt;Category Assigned=&quot;0&quot;&gt;[000] 속성&lt;Category Assigned=&quot;1&quot;&gt;[020] 패스&lt;/Category&gt;&lt;Category Assigned=&quot;1&quot;&gt;[010] 대표이미지&lt;/Category&gt;&lt;/Category&gt;&lt;Category Assigned=&quot;1&quot;&gt;New_high_1&lt;/Category&gt;&lt;Category Assigned=&quot;0&quot;&gt;[020] 원칙 정리&lt;Category Assigned=&quot;0&quot;&gt;[010] 1차 돌파&lt;Category Assigned=&quot;0&quot;&gt;[050] 돌파 : 장 초반 &amp; 대금▼ → ❌&lt;Category Assigned=&quot;1&quot;&gt;[반례] 장 초반 &amp; 대금▼ →  ⭕&lt;/Category&gt;&lt;/Category&gt;&lt;Category Assigned=&quot;0&quot;&gt;[090❓] 돌파(진입시점) : 테마▼ &amp; 이슈▼ &amp; 파동[대금▼ | 단발성] → ❌&lt;Category Assigned=&quot;1&quot;&gt;[반례] 테마▼ &amp; 이슈▼ &amp; 파동[대금▼ | 단발성] → ⭕&lt;/Category&gt;&lt;/Category&gt;&lt;/Category&gt;&lt;/Category&gt;&lt;Category Assigned=&quot;0&quot;&gt;003▷이슈&lt;Category Assigned=&quot;1&quot;&gt;999▷이슈없음&lt;/Category&gt;&lt;/Category&gt;&lt;Category Assigned=&quot;0&quot;&gt;[010] 타점 ⭕ | ❌&lt;Category Assigned=&quot;1&quot;&gt;[01] 1차 돌파&lt;Category Assigned=&quot;1&quot;&gt;[01] ⭕&lt;/Category&gt;&lt;/Category&gt;&lt;/Category&gt;&lt;Category Assigned=&quot;1&quot;&gt;Filter_1&lt;/Category&gt;&lt;Category Assigned=&quot;0&quot;&gt;002▷테마&lt;Category Assigned=&quot;1&quot;&gt;004▷테마모호&lt;/Category&gt;&lt;/Category&gt;&lt;/Categories&gt;">
+   acdsee:categories="&lt;Categories&gt;&lt;Category Assigned=&quot;0&quot;&gt;010▷일봉패턴&lt;Category Assigned=&quot;1&quot;&gt;003▷좋은신고가&lt;/Category&gt;&lt;/Category&gt;&lt;Category Assigned=&quot;0&quot;&gt;[000] 속성&lt;Category Assigned=&quot;1&quot;&gt;[020] 패스&lt;/Category&gt;&lt;Category Assigned=&quot;1&quot;&gt;[010] 대표이미지&lt;/Category&gt;&lt;/Category&gt;&lt;Category Assigned=&quot;1&quot;&gt;New_high_1&lt;/Category&gt;&lt;Category Assigned=&quot;0&quot;&gt;[020] 원칙 정리&lt;Category Assigned=&quot;0&quot;&gt;[010] 1차 돌파&lt;Category Assigned=&quot;0&quot;&gt;[050] 돌파 : 장 초반 &amp; 대금▼ → ❌&lt;Category Assigned=&quot;1&quot;&gt;[반례] 장 초반 &amp; 대금▼ →  ⭕&lt;/Category&gt;&lt;/Category&gt;&lt;Category Assigned=&quot;0&quot;&gt;[090❓] 돌파(진입시점) : 테마▼ &amp; 이슈▼ &amp; 파동[대금▼ | 단발성] → ❌&lt;Category Assigned=&quot;1&quot;&gt;[반례] 테마▼ &amp; 이슈▼ &amp; 파동[대금▼ | 단발성] → ⭕&lt;/Category&gt;&lt;/Category&gt;&lt;/Category&gt;&lt;/Category&gt;&lt;Category Assigned=&quot;0&quot;&gt;[010] 타점 ⭕ | ❌&lt;Category Assigned=&quot;1&quot;&gt;[01] 1차 돌파&lt;Category Assigned=&quot;1&quot;&gt;[01] ⭕&lt;/Category&gt;&lt;/Category&gt;&lt;/Category&gt;&lt;Category Assigned=&quot;1&quot;&gt;Filter_1&lt;/Category&gt;&lt;/Categories&gt;">
    <digiKam:TagsList>
     <rdf:Seq>
      <rdf:li>010▷일봉패턴/003▷좋은신고가</rdf:li>
@@ -16,12 +16,10 @@
      <rdf:li>[000] 속성/[020] 패스</rdf:li>
      <rdf:li>New_high_1</rdf:li>
      <rdf:li>[020] 원칙 정리/[010] 1차 돌파/[090❓] 돌파(진입시점) : 테마▼ &amp; 이슈▼ &amp; 파동[대금▼ | 단발성] → ❌/[반례] 테마▼ &amp; 이슈▼ &amp; 파동[대금▼ | 단발성] → ⭕</rdf:li>
-     <rdf:li>003▷이슈/999▷이슈없음</rdf:li>
      <rdf:li>[010] 타점 ⭕ | ❌/[01] 1차 돌파/[01] ⭕</rdf:li>
      <rdf:li>[010] 타점 ⭕ | ❌/[01] 1차 돌파</rdf:li>
      <rdf:li>[020] 원칙 정리/[010] 1차 돌파/[050] 돌파 : 장 초반 &amp; 대금▼ → ❌/[반례] 장 초반 &amp; 대금▼ →  ⭕</rdf:li>
      <rdf:li>Filter_1</rdf:li>
-     <rdf:li>002▷테마/004▷테마모호</rdf:li>
     </rdf:Seq>
    </digiKam:TagsList>
    <MicrosoftPhoto:LastKeywordXMP>
@@ -31,12 +29,10 @@
      <rdf:li>[000] 속성/[020] 패스</rdf:li>
      <rdf:li>New_high_1</rdf:li>
      <rdf:li>[020] 원칙 정리/[010] 1차 돌파/[090❓] 돌파(진입시점) : 테마▼ &amp; 이슈▼ &amp; 파동[대금▼ | 단발성] → ❌/[반례] 테마▼ &amp; 이슈▼ &amp; 파동[대금▼ | 단발성] → ⭕</rdf:li>
-     <rdf:li>003▷이슈/999▷이슈없음</rdf:li>
      <rdf:li>[010] 타점 ⭕ | ❌/[01] 1차 돌파/[01] ⭕</rdf:li>
      <rdf:li>[010] 타점 ⭕ | ❌/[01] 1차 돌파</rdf:li>
      <rdf:li>[020] 원칙 정리/[010] 1차 돌파/[050] 돌파 : 장 초반 &amp; 대금▼ → ❌/[반례] 장 초반 &amp; 대금▼ →  ⭕</rdf:li>
      <rdf:li>Filter_1</rdf:li>
-     <rdf:li>002▷테마/004▷테마모호</rdf:li>
     </rdf:Bag>
    </MicrosoftPhoto:LastKeywordXMP>
    <lr:hierarchicalSubject>
@@ -46,12 +42,10 @@
      <rdf:li>[000] 속성|[020] 패스</rdf:li>
      <rdf:li>New_high_1</rdf:li>
      <rdf:li>[020] 원칙 정리|[010] 1차 돌파|[090❓] 돌파(진입시점) : 테마▼ &amp; 이슈▼ &amp; 파동[대금▼ | 단발성] → ❌|[반례] 테마▼ &amp; 이슈▼ &amp; 파동[대금▼ | 단발성] → ⭕</rdf:li>
-     <rdf:li>003▷이슈|999▷이슈없음</rdf:li>
      <rdf:li>[010] 타점 ⭕ | ❌|[01] 1차 돌파|[01] ⭕</rdf:li>
      <rdf:li>[010] 타점 ⭕ | ❌|[01] 1차 돌파</rdf:li>
      <rdf:li>[020] 원칙 정리|[010] 1차 돌파|[050] 돌파 : 장 초반 &amp; 대금▼ → ❌|[반례] 장 초반 &amp; 대금▼ →  ⭕</rdf:li>
      <rdf:li>Filter_1</rdf:li>
-     <rdf:li>002▷테마|004▷테마모호</rdf:li>
     </rdf:Bag>
    </lr:hierarchicalSubject>
    <mediapro:CatalogSets>
@@ -61,12 +55,10 @@
      <rdf:li>[000] 속성|[020] 패스</rdf:li>
      <rdf:li>New_high_1</rdf:li>
      <rdf:li>[020] 원칙 정리|[010] 1차 돌파|[090❓] 돌파(진입시점) : 테마▼ &amp; 이슈▼ &amp; 파동[대금▼ | 단발성] → ❌|[반례] 테마▼ &amp; 이슈▼ &amp; 파동[대금▼ | 단발성] → ⭕</rdf:li>
-     <rdf:li>003▷이슈|999▷이슈없음</rdf:li>
      <rdf:li>[010] 타점 ⭕ | ❌|[01] 1차 돌파|[01] ⭕</rdf:li>
      <rdf:li>[010] 타점 ⭕ | ❌|[01] 1차 돌파</rdf:li>
      <rdf:li>[020] 원칙 정리|[010] 1차 돌파|[050] 돌파 : 장 초반 &amp; 대금▼ → ❌|[반례] 장 초반 &amp; 대금▼ →  ⭕</rdf:li>
      <rdf:li>Filter_1</rdf:li>
-     <rdf:li>002▷테마|004▷테마모호</rdf:li>
     </rdf:Bag>
    </mediapro:CatalogSets>
    <dc:subject>
@@ -76,12 +68,10 @@
      <rdf:li>[020] 패스</rdf:li>
      <rdf:li>New_high_1</rdf:li>
      <rdf:li>[반례] 테마▼ &amp; 이슈▼ &amp; 파동[대금▼ | 단발성] → ⭕</rdf:li>
-     <rdf:li>999▷이슈없음</rdf:li>
      <rdf:li>[01] ⭕</rdf:li>
      <rdf:li>[01] 1차 돌파</rdf:li>
      <rdf:li>[반례] 장 초반 &amp; 대금▼ →  ⭕</rdf:li>
      <rdf:li>Filter_1</rdf:li>
-     <rdf:li>004▷테마모호</rdf:li>
     </rdf:Bag>
    </dc:subject>
   </rdf:Description>
