@@ -8,35 +8,30 @@
     xmlns:mediapro="http://ns.iview-multimedia.com/mediapro/1.0/"
     xmlns:acdsee="http://ns.acdsee.com/iptc/1.0/"
     xmlns:dc="http://purl.org/dc/elements/1.1/"
-   acdsee:categories="&lt;Categories&gt;&lt;Category Assigned=&quot;1&quot;&gt;New_high_1&lt;/Category&gt;&lt;Category Assigned=&quot;1&quot;&gt;Filter_1&lt;/Category&gt;&lt;/Categories&gt;">
+   acdsee:categories="&lt;Categories&gt;&lt;Category Assigned=&quot;1&quot;&gt;New_high_1&lt;/Category&gt;&lt;/Categories&gt;">
    <digiKam:TagsList>
     <rdf:Seq>
      <rdf:li>New_high_1</rdf:li>
-     <rdf:li>Filter_1</rdf:li>
     </rdf:Seq>
    </digiKam:TagsList>
    <MicrosoftPhoto:LastKeywordXMP>
     <rdf:Bag>
      <rdf:li>New_high_1</rdf:li>
-     <rdf:li>Filter_1</rdf:li>
     </rdf:Bag>
    </MicrosoftPhoto:LastKeywordXMP>
    <lr:hierarchicalSubject>
     <rdf:Bag>
      <rdf:li>New_high_1</rdf:li>
-     <rdf:li>Filter_1</rdf:li>
     </rdf:Bag>
    </lr:hierarchicalSubject>
    <mediapro:CatalogSets>
     <rdf:Bag>
      <rdf:li>New_high_1</rdf:li>
-     <rdf:li>Filter_1</rdf:li>
     </rdf:Bag>
    </mediapro:CatalogSets>
    <dc:subject>
     <rdf:Bag>
      <rdf:li>New_high_1</rdf:li>
-     <rdf:li>Filter_1</rdf:li>
     </rdf:Bag>
    </dc:subject>
   </rdf:Description>

@@ -3,42 +3,9 @@
  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
   <rdf:Description rdf:about=""
     xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/"
-    xmlns:digiKam="http://www.digikam.org/ns/1.0/"
-    xmlns:MicrosoftPhoto="http://ns.microsoft.com/photo/1.0/"
-    xmlns:lr="http://ns.adobe.com/lightroom/1.0/"
-    xmlns:mediapro="http://ns.iview-multimedia.com/mediapro/1.0/"
-    xmlns:acdsee="http://ns.acdsee.com/iptc/1.0/"
     xmlns:tiff="http://ns.adobe.com/tiff/1.0/"
-    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmpMM:InstanceID="uuid:faf5bdd5-ba3d-11da-ad31-d33d75182f1b"
-   acdsee:categories="&lt;Categories&gt;&lt;Category Assigned=&quot;1&quot;&gt;Filter_1&lt;/Category&gt;&lt;/Categories&gt;"
-   tiff:Orientation="1">
-   <digiKam:TagsList>
-    <rdf:Seq>
-     <rdf:li>Filter_1</rdf:li>
-    </rdf:Seq>
-   </digiKam:TagsList>
-   <MicrosoftPhoto:LastKeywordXMP>
-    <rdf:Bag>
-     <rdf:li>Filter_1</rdf:li>
-    </rdf:Bag>
-   </MicrosoftPhoto:LastKeywordXMP>
-   <lr:hierarchicalSubject>
-    <rdf:Bag>
-     <rdf:li>Filter_1</rdf:li>
-    </rdf:Bag>
-   </lr:hierarchicalSubject>
-   <mediapro:CatalogSets>
-    <rdf:Bag>
-     <rdf:li>Filter_1</rdf:li>
-    </rdf:Bag>
-   </mediapro:CatalogSets>
-   <dc:subject>
-    <rdf:Bag>
-     <rdf:li>Filter_1</rdf:li>
-    </rdf:Bag>
-   </dc:subject>
-  </rdf:Description>
+   tiff:Orientation="1"/>
  </rdf:RDF>
 </x:xmpmeta>
 <?xpacket end="w"?>
