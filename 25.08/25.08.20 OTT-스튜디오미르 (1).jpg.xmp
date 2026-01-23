@@ -8,35 +8,40 @@
     xmlns:mediapro="http://ns.iview-multimedia.com/mediapro/1.0/"
     xmlns:acdsee="http://ns.acdsee.com/iptc/1.0/"
     xmlns:dc="http://purl.org/dc/elements/1.1/"
-   acdsee:categories="&lt;Categories&gt;&lt;Category Assigned=&quot;0&quot;&gt;[000] 속성&lt;Category Assigned=&quot;1&quot;&gt;[010] 대표이미지&lt;/Category&gt;&lt;/Category&gt;&lt;Category Assigned=&quot;0&quot;&gt;[030] 일봉&lt;Category Assigned=&quot;1&quot;&gt;[030] 결함 신고가&lt;/Category&gt;&lt;/Category&gt;&lt;/Categories&gt;">
+   acdsee:categories="&lt;Categories&gt;&lt;Category Assigned=&quot;0&quot;&gt;[030] 일봉&lt;Category Assigned=&quot;1&quot;&gt;[020] 매물대 없는 자리&lt;Category Assigned=&quot;1&quot;&gt;[02] 단점⭕&lt;/Category&gt;&lt;/Category&gt;&lt;/Category&gt;&lt;Category Assigned=&quot;0&quot;&gt;[000] 속성&lt;Category Assigned=&quot;1&quot;&gt;[010] 대표이미지&lt;/Category&gt;&lt;/Category&gt;&lt;/Categories&gt;">
    <digiKam:TagsList>
     <rdf:Seq>
+     <rdf:li>[030] 일봉/[020] 매물대 없는 자리/[02] 단점⭕</rdf:li>
+     <rdf:li>[030] 일봉/[020] 매물대 없는 자리</rdf:li>
      <rdf:li>[000] 속성/[010] 대표이미지</rdf:li>
-     <rdf:li>[030] 일봉/[030] 결함 신고가</rdf:li>
     </rdf:Seq>
    </digiKam:TagsList>
    <MicrosoftPhoto:LastKeywordXMP>
     <rdf:Bag>
+     <rdf:li>[030] 일봉/[020] 매물대 없는 자리/[02] 단점⭕</rdf:li>
+     <rdf:li>[030] 일봉/[020] 매물대 없는 자리</rdf:li>
      <rdf:li>[000] 속성/[010] 대표이미지</rdf:li>
-     <rdf:li>[030] 일봉/[030] 결함 신고가</rdf:li>
     </rdf:Bag>
    </MicrosoftPhoto:LastKeywordXMP>
    <lr:hierarchicalSubject>
     <rdf:Bag>
+     <rdf:li>[030] 일봉|[020] 매물대 없는 자리|[02] 단점⭕</rdf:li>
+     <rdf:li>[030] 일봉|[020] 매물대 없는 자리</rdf:li>
      <rdf:li>[000] 속성|[010] 대표이미지</rdf:li>
-     <rdf:li>[030] 일봉|[030] 결함 신고가</rdf:li>
     </rdf:Bag>
    </lr:hierarchicalSubject>
    <mediapro:CatalogSets>
     <rdf:Bag>
+     <rdf:li>[030] 일봉|[020] 매물대 없는 자리|[02] 단점⭕</rdf:li>
+     <rdf:li>[030] 일봉|[020] 매물대 없는 자리</rdf:li>
      <rdf:li>[000] 속성|[010] 대표이미지</rdf:li>
-     <rdf:li>[030] 일봉|[030] 결함 신고가</rdf:li>
     </rdf:Bag>
    </mediapro:CatalogSets>
    <dc:subject>
     <rdf:Bag>
+     <rdf:li>[02] 단점⭕</rdf:li>
+     <rdf:li>[020] 매물대 없는 자리</rdf:li>
      <rdf:li>[010] 대표이미지</rdf:li>
-     <rdf:li>[030] 결함 신고가</rdf:li>
     </rdf:Bag>
    </dc:subject>
   </rdf:Description>
